@@ -30,7 +30,7 @@ SECRET_KEY = config('DJANGO_SECRET_KEY')
 DEBUG = config('Django_DEBUG')
 
 ALLOWED_HOSTS = [
-    'cryptic-springs-33309.herokuapp.com'
+    '127.0.0.1'
 ]
 
 
@@ -43,7 +43,6 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'resume',
     'core',
 
 ]
