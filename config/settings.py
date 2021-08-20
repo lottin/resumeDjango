@@ -27,7 +27,7 @@ SECRET_KEY = 'a(23i*)@e@ga2+g4x&r2u+6sdy!%=(47(h)esv_cte4_v5%z1+'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'cryptic-springs-33309.herokuapp.com', '127.0.0.1'
+    'cryptic-springs-33309.herokuapp.com'
 ]
 
 
