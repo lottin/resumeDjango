@@ -29,7 +29,8 @@ SECRET_KEY = 'a(23i*)@e@ga2+g4x&r2u+6sdy!%=(47(h)esv_cte4_v5%z1+'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '0.0.0.0' 
+    'enigmatic-sands-42243.herokuapp.com',
+    '127.0.0.1'
 ]
 
 # Application definition
